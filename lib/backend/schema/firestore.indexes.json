@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "TransactionDetails",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "AccountType",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "CreatedDate",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

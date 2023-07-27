@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488134673586",
+    "project_id": "icicidemoproject",
+    "storage_bucket": "icicidemoproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488134673586:android:e30caf68757c372233f5ab",
+        "android_client_info": {
+          "package_name": "com.mycompany.capgeminiicicidesignlib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPYjjvx-drlrUQHEjxtxhozRF2qyJxOc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488134673586:android:4efafc038f38f44133f5ab",
+        "android_client_info": {
+          "package_name": "com.mycompany.icicinewflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPYjjvx-drlrUQHEjxtxhozRF2qyJxOc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
